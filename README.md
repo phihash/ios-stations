@@ -8,7 +8,7 @@
 
 上記をインストールする必要があります。
 
-## Homebrew のインストール
+## ① Homebrew のインストール
 （すでにインストール済みの方は、この手順を飛ばしてください。）
 
 Terminal.app を開き、次のコマンドをコピーアンドペーストで実行してください。
@@ -27,10 +27,10 @@ brew -v
 
 ![スクリーンショット 2021-04-25 15 42 19](https://user-images.githubusercontent.com/16362021/115983568-eba85d80-a5dc-11eb-9e1a-49462edc2d46.png)
 
-## XCode のインストール
+## ② XCode のインストール
 [https://apps.apple.com/jp/app/xcode/id497799835?mt=12](https://apps.apple.com/jp/app/xcode/id497799835?mt=12) より App Store へ進み、インストールしてください。
 
-## xcprettyのインストール
+## ③ xcprettyのインストール
 Station のクリア判定に [xcpretty](https://github.com/xcpretty/xcpretty) というライブラリを使用します。
 `gem`コマンドで`xcpretty`をインストールしてください。
 
