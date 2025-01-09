@@ -1,7 +1,7 @@
 # 環境構築
 
 1. Homebrew
-2. XCode（v15.0以降）
+2. Xcode（v15.0以降）
 3. xcpretty（0.3.0以降）
 4. Node.js（v18以降）
 5. Yarn (v1)
@@ -27,7 +27,7 @@ brew -v
 
 ![スクリーンショット 2021-04-25 15 42 19](https://user-images.githubusercontent.com/16362021/115983568-eba85d80-a5dc-11eb-9e1a-49462edc2d46.png)
 
-## 2. XCode のインストール
+## 2. Xcode のインストール
 [https://apps.apple.com/jp/app/xcode/id497799835?mt=12](https://apps.apple.com/jp/app/xcode/id497799835?mt=12) より App Store へ進み、インストールしてください。
 
 ## 3. xcprettyのインストール
